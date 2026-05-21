@@ -68,7 +68,7 @@ class: center, middle
 
 ## About Me / Motivation for Evidence Aggregation
 
-.center[<img src="figs/evidence-to-policy.png" width="70%"/>]
+.center[<img src="figs/evidence-to-policy.png" width="90%"/>]
 
 --
 
