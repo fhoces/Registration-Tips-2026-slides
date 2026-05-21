@@ -2,7 +2,11 @@
 
 **After Encoding 300 Studies from the AEA RCT Registry**
 
-Fernando Hoces de la Guardia (2026)
+*Research Transparency and Reproducibility Training (RT2)*  
+*UC Berkeley*  
+*May 21. 2026*
+
+Fernando Hoces de la Guardia
 
 ## Slides
 
