@@ -1072,22 +1072,23 @@ $$\begin{aligned}
 
 ## A Cautionary Note on Pre-Registered Heterogeneity
 
-File drawer for **main hypotheses** across 302 registrations: **56.5%**
+### Most Hypotheses Are Not Reported 8–9 Years After Registration: File Drawer Size of 58% for **All (Main + Heterogeneity)** Pre-Registered Hypotheses
 
-.center[<img src="figs/last_waterfall.png" width="55%"/>]
+.center[<img src="figs/waterfall_last_panel.png" width="100%"/>]
+
 
 ---
-
+count: false
 ## A Cautionary Note on Pre-Registered Heterogeneity
 
-File drawer for **heterogeneity hypotheses** across 37 registrations: **76.3%**
+### Most Hypotheses Are Not Reported 8–9 Years After Registration: File Drawer Size of 78% for  Pre-Registered Hypotheses: **Heterogeneity Only (37 Studies)**
 
-.center[<img src="figs/het_waterfall.png" width="55%"/>]
+.center[<img src="figs/waterfall_het_last_panel.png" width="100%"/>]
+
+
 
 If you want to persuade that a heterogeneity dimension was pre-registered, you need to be **very specific** — much more so than for main hypotheses.
-
 ---
-
 class: center, middle, inverse
 
 # Final Considerations
