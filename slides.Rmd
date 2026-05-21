@@ -1119,7 +1119,7 @@ class: center, middle
 
 <br/>
 
-.small[fhoces@berkeley.edu]
+.small[fhoces@gmail.com]
 ---
 count: false
 class: center, middle, inverse
