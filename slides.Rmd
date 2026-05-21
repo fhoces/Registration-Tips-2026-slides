@@ -56,7 +56,13 @@ class: center, middle
 
 <br/>
 
-.small[Fernando Hoces de la Guardia — 2026]
+.small[Fernando Hoces de la Guardia]
+
+<br/>
+
+.small[*Research Transparency and Reproducibility Training (RT2)*<br/>
+*UC Berkeley*<br/>
+*May 21. 2026*]
 
 ---
 
