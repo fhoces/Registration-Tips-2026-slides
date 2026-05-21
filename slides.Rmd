@@ -709,9 +709,9 @@ class: center, middle, inverse
 <br/>
 
 
-<div style="font-size: 1.9em; line-height: 1.5; text-align: center;">
+.eq-huge[
 $$H \;\approx\; P \;\times\; I \;\times\; A \;\times\; O \;\times\; (\text{Contrasts}+) \;\times\; \text{Het}$$
-</div>
+]
 
 --
 
@@ -1044,7 +1044,8 @@ class: big-text
 .small[
 $$\begin{aligned}
 & E[Y|T_1] - E[Y|T_0] = 0;\ E[Y|T_2] - E[Y|T_0] = 0;\ E[Y|T_2] - E[Y|T_1] = 0 \\
-& E[Y|T_2] - E[Y|T_1] = E[Y|T_1] - E[Y|T_0];\ E[Y|T_2] - E[Y|T_1] = E[Y|T_2] - E[Y|T_0]
+& E[Y|T_2] - E[Y|T_1] = E[Y|T_1] - E[Y|T_0] \\
+& E[Y|T_2] - E[Y|T_1] = E[Y|T_2] - E[Y|T_0]
 \end{aligned}$$
 ]
 

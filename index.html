@@ -87,6 +87,12 @@
     .big-text-tight blockquote { font-size: 1.02em; line-height: 1.45; }
     .big-text-tight li         { margin-bottom: 0.3em; }
     .big-text-tight blockquote { margin: 0.3em 0; }
+
+    /* Large display equation — used on "Most Important (Pseudo) Equation" slide.
+       Wrapping in a remark class via .eq-huge[...] keeps pandoc happy
+       (a <div> wrapper around $$..$$ causes pandoc to escape the div and
+       backtick-quote the math, which then renders as visible ticks). */
+    .eq-huge { font-size: 1.35em; display: inline-block; }
     .hi-num { color: #c0392b; font-weight: bold; }
 
     /* Regression table */
@@ -1051,9 +1057,9 @@ class: center, middle, inverse
 &lt;br/&gt;
 
 
-&lt;div style="font-size: 1.9em; line-height: 1.5; text-align: center;"&gt;
+.eq-huge[
 `$$H \;\approx\; P \;\times\; I \;\times\; A \;\times\; O \;\times\; (\text{Contrasts}+) \;\times\; \text{Het}$$`
-&lt;/div&gt;
+]
 
 --
 
@@ -1386,7 +1392,8 @@ class: big-text
 .small[
 `$$\begin{aligned}
 &amp; E[Y|T_1] - E[Y|T_0] = 0;\ E[Y|T_2] - E[Y|T_0] = 0;\ E[Y|T_2] - E[Y|T_1] = 0 \\
-&amp; E[Y|T_2] - E[Y|T_1] = E[Y|T_1] - E[Y|T_0];\ E[Y|T_2] - E[Y|T_1] = E[Y|T_2] - E[Y|T_0]
+&amp; E[Y|T_2] - E[Y|T_1] = E[Y|T_1] - E[Y|T_0] \\
+&amp; E[Y|T_2] - E[Y|T_1] = E[Y|T_2] - E[Y|T_0]
 \end{aligned}$$`
 ]
 
