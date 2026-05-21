@@ -82,7 +82,22 @@
    Wrapping in a remark class via .eq-huge[...] keeps pandoc happy
    (a <div> wrapper around $$..$$ causes pandoc to escape the div and
    backtick-quote the math, which then renders as visible ticks). */
-.eq-huge { font-size: 1.35em; display: inline-block; }
+.eq-huge {
+  font-size: 1.7em;
+  display: block;
+  text-align: center;
+  margin: 2.2em 0 1.2em 0;
+}
+
+/* Unpacking Hypotheses frames — bigger single-line equation, no top margin
+   since the table already pushes it down. Same pattern as .eq-huge to dodge
+   the pandoc backtick-quoting that happens with raw <div> wrappers. */
+.eq-uh {
+  font-size: 2.2em;
+  display: block;
+  text-align: center;
+  margin-top: 0.4em;
+}
 .hi-num { color: #c0392b; font-weight: bold; }
 
 /* Regression table */

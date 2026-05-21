@@ -760,9 +760,9 @@ $$H \;\approx\; P \;\times\; I \;\times\; A \;\times\; O \;\times\; (\text{Contr
 | Main Hypotheses per Study | 2 | 8 | 10 | 26 |
 | Heterogeneity Hypotheses (N = 37) | 4 | 12 | 22 | 97 |
 
-<div style="text-align: center; font-size: 2.2em; margin-top: 0.6em;">
+.eq-uh[
 $$E[Y \mid T_1] - E[Y \mid T_0]$$
-</div>
+]
 
 ---
 count: false
@@ -779,9 +779,9 @@ count: false
 | Main Hypotheses per Study | 2 | 8 | 10 | 26 |
 | Heterogeneity Hypotheses (N = 37) | 4 | 12 | 22 | 97 |
 
-<div style="text-align: center; font-size: 2.2em; margin-top: 0.6em;">
+.eq-uh[
 $$E[Y \mid \color{red}{T_1}] - E[Y \mid \color{red}{T_0}]$$
-</div>
+]
 
 ---
 count: false
@@ -798,9 +798,9 @@ count: false
 | Main Hypotheses per Study | 2 | 8 | 10 | 26 |
 | Heterogeneity Hypotheses (N = 37) | 4 | 12 | 22 | 97 |
 
-<div style="text-align: center; font-size: 2.2em; margin-top: 0.6em;">
+.eq-uh[
 $$E[Y \mid \color{red}{T_1}] - E[Y \mid \color{red}{T_0}]$$
-</div>
+]
 <img src="figs/I_to_T_1.png" width="16%" style="position: absolute; right: 4em; bottom: 4em;"/>
 
 ---
@@ -818,9 +818,9 @@ count: false
 | Main Hypotheses per Study | 2 | 8 | 10 | 26 |
 | Heterogeneity Hypotheses (N = 37) | 4 | 12 | 22 | 97 |
 
-<div style="text-align: center; font-size: 2.2em; margin-top: 0.6em;">
+.eq-uh[
 $$E[Y \mid \color{red}{T_1}] - E[Y \mid \color{red}{T_0}]$$
-</div>
+]
 <img src="figs/I_to_T_2.png" width="16%" style="position: absolute; right: 4em; bottom: 4em;"/>
 
 ---
@@ -838,9 +838,9 @@ count: false
 | Main Hypotheses per Study | 2 | 8 | 10 | 26 |
 | Heterogeneity Hypotheses (N = 37) | 4 | 12 | 22 | 97 |
 
-<div style="text-align: center; font-size: 2.2em; margin-top: 0.6em;">
+.eq-uh[
 $$E[Y \mid \color{red}{T_1}] - E[Y \mid \color{red}{T_0}]$$
-</div>
+]
 <img src="figs/I_to_T_3.png" width="16%" style="position: absolute; right: 4em; bottom: 4em;"/>
 
 ---
@@ -858,9 +858,9 @@ count: false
 | Main Hypotheses per Study | 2 | 8 | 10 | 26 |
 | Heterogeneity Hypotheses (N = 37) | 4 | 12 | 22 | 97 |
 
-<div style="text-align: center; font-size: 2.2em; margin-top: 0.6em;">
+.eq-uh[
 $$E[\color{red}{Y} \mid T_1] - E[\color{red}{Y} \mid T_0]$$
-</div>
+]
 
 ---
 count: false
